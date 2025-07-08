@@ -1,4 +1,4 @@
-# aidd-lover
+# AF2m_batch_pred & statiscs
 Batch prediction and statistics of AF2m.
 
 As it is called, these two scripts are used to batch prediction with AlphaFold2-multimer Locally. 
